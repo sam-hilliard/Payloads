@@ -1,3 +1,8 @@
+"""
+Prints basic information about the host
+it is planted on.
+"""
+
 import platform
 import socket as s
 import requests
